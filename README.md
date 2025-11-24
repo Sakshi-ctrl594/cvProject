@@ -1,6 +1,6 @@
-**Face Mask Detector (Computer Vision / Deep Learning)**
+**Face Mask Detector (Computer Vision)**
 
-A deep-learning based pipeline that detects whether a person is wearing a face mask in an image. The repository contains preprocessing code, model training, evaluation, and inference scripts implemented and demonstrated inside the Jupyter notebook `/mnt/data/v-ml-mask-detector.ipynb`.
+An OpenCV project that detects whether a person is wearing a face mask in an image. The repository contains preprocessing code, model training, evaluation, and inference scripts implemented and demonstrated inside the Jupyter notebook `/mnt/data/v-ml-mask-detector.ipynb`.
 
 ## Features
 - Data preprocessing and augmentation
